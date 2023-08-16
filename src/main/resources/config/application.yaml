@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: settings-server
+
+powsybl-ws:
+  database:
+    name: settings
+
+spring.jpa.hibernate.ddl-auto: update
